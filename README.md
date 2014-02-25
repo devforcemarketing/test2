@@ -18,3 +18,7 @@ test2
 =====
 
 test2
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/devforcemarketing/test2/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
