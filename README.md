@@ -8,3 +8,6 @@
 .. image:: https://cruel-carlota.pagodabox.com/915b5f5c89c62871178d6b98edcb5b46
     :alt: githalytics.com
     :target: http://githalytics.com/devforcemarketing/test2
+
+
+pagodabox & modified snippet 
